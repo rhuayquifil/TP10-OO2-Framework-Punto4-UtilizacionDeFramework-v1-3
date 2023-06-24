@@ -1,0 +1,4 @@
+{
+"acciones": ["huayquifil.utilizacion.AccionUno", "huayquifil.utilizacion.AccionDos", "huayquifil.utilizacion.AccionCuatro"],
+"max-threads": 2
+}
